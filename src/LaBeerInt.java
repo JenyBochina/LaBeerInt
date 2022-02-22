@@ -1,7 +1,3 @@
-
-import javax.swing.*;
-
-import java.awt.*;
 import java.io.*;
 import java.nio.file.Paths;
 import java.util.Scanner;
